@@ -1,3 +1,5 @@
+[doggle](https://i.giphy.com/media/jkSvCVEXWlOla/giphy.webp)
+
 # Capstone PT Evaluations
 
 TLDR: We need to be leaving more official evaluations on Progress Tracker, especially with students who are on their last deferral or their second capstone attempt and are in danger of being dismissed.
