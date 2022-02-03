@@ -1,9 +1,5 @@
 # Capstone PT Evaluations
 
-Instructions and examples for Progress Tracker evaluations specifically in relation to capstone projects in module 7.
-
----
-
 TLDR: We need to be leaving more official evaluations on Progress Tracker, especially with students who are on their last deferral or their second capstone attempt.
 
 ---
