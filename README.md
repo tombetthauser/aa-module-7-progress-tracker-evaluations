@@ -28,7 +28,7 @@ TLDR: We need to be leaving more official evaluations on Progress Tracker, espec
 
 ---
 
-## Example Negative Evaluations:
+## Example Evaluations:
 
 ### Missed Standup:
 ```txt
@@ -98,4 +98,22 @@ Does not seem to be responding to encouragement during standups to ask more ques
 Has asked very few questions in regards to pregrading scorecard.
 Based state of project observed during pregrading this is concerning.
 Does not seem to be responding to encouragement to ask more questions.
+```
+
+### Project is Amazing Early On
+```txt
+Capstone project is clearly passing and we are nowhere near the pregrading deadline.
+Student is doing exemplary work and clearly is very comfortable with curriculum.
+```
+
+### Outstanding TA Interaction
+```txt
+Student was extremely professional during our last interaction.
+Communication skills and engagement are exemplary.
+```
+
+### Frequent Excellent Questions
+```txt
+Student has consistently been asking clear and focused questions regarding their capstone project.
+Questions are frequent and always clearly addressable.
 ```
