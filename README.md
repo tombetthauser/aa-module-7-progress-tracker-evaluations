@@ -1,4 +1,4 @@
-![doggle](https://i.giphy.com/media/jkSvCVEXWlOla/giphy.webp)
+<!-- ![doggle](https://i.giphy.com/media/jkSvCVEXWlOla/giphy.webp) -->
 
 # Capstone PT Evaluations
 
